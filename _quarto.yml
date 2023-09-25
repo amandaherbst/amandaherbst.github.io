@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "amandaherbst.github.io"
+  title: "Amanda Herbst"
   navbar:
     left:
       - href: index.qmd
@@ -15,6 +15,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 
 

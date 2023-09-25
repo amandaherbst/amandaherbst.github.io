@@ -2,9 +2,30 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "amandaherbst.github.io",
+    "title": "Amanda Herbst",
     "section": "",
-    "text": "Hello world!"
+    "text": "My name is Amanda Herbst and this is where I will put my bio"
+  },
+  {
+    "objectID": "index.html#intro",
+    "href": "index.html#intro",
+    "title": "Amanda Herbst",
+    "section": "",
+    "text": "My name is Amanda Herbst and this is where I will put my bio"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Amanda Herbst",
+    "section": "Education",
+    "text": "Education\nMaster of Environmental Data Science, UCSB (2024)\nBS, Chemistry, minor in Dance, Cal Poly SLO (2022)"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Amanda Herbst",
+    "section": "Experience",
+    "text": "Experience"
   },
   {
     "objectID": "about.html",

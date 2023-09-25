@@ -1,5 +1,31 @@
 ---
-title: "amandaherbst.github.io"
+title: "Amanda Herbst"
+toc: false
+image: Herbst Amanda_MEDS 23_Bren_Portraits_0001.jpg
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/amanda-herbst
+      icon: linkedin
+    - text: GitHub
+      icon: github
+      href: https://github.com/amandaherbst
+    - text: Email
+      href: mailto::aherbst@ucsb.edu
+      icon: envelope
 ---
 
-Hello world!
+## Intro
+
+My name is Amanda Herbst and this is where I will put my bio
+
+## Education
+
+Master of Environmental Data Science, UCSB (2024)
+
+BS, Chemistry, minor in Dance, Cal Poly SLO (2022)
+
+## Experience
