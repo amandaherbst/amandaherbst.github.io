@@ -3,19 +3,36 @@ project:
   output-dir: docs
 
 website:
-  title: "Amanda Herbst"
   navbar:
-    left:
+    # favicon: filepath/to/image
+    # if you want to add logo for title
+    # title: false # change this to false!
+    # logo: file/path/to/logo.png
+    # logo-alt: "Alt text for logo"
+    title: "Amanda Herbst"
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
       - href: resources.qmd
         text: Resources
+      - href: cv/Herbst_Amanda_CV_website.pdf
+        text: CV
+    left:
+      - icon: github
+        href: https://github.com/amandaherbst
+  page-footer:
+    background: light
+    left: "Copyright 2023, Amanda Herbst"
+    right: 
+      - icon: github
+        href: https://github.com/amandaherbst
 
 format:
   html:
-    theme: journal
-    css: styles.css
+    theme: styles.scss
+    mainfont: Barlow
+    #css: styles.css
     toc: true
     page-layout: full
     

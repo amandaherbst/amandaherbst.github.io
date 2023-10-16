@@ -1,0 +1,32 @@
+/*-- scss:defaults --*/
+
+// Import fonts 
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap');
+
+// Colors 
+$darkgreen: #047D21;
+$blue: #1D8FF4;
+$pink: #F563B7;
+$white: #F7F7F7;
+
+// base document colors 
+$navbar-bg: $darkgreen;
+$navbar-fg: $white;
+//$body-bg: $pink;
+//$footer-bg: $darkgreen;
+$link-color: $pink;
+
+/*-- scss:rules --*/
+
+h1, h2{
+  letter-spacing: 5px;
+  color: $pink;
+}
+
+.title {
+  color: red;
+}
+
+.center-text {
+  text-align: center;
+}
