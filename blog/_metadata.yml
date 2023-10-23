@@ -1,0 +1,6 @@
+# enables banner style title blocks to all posts inside the /blog folder
+title-block-banner: true
+# only rerun a blog post with code if you've made changes
+freeze: auto
+# freeze: true 
+# requires me to rerender individual blog posts before "Render Website"

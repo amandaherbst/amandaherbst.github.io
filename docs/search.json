@@ -28,10 +28,45 @@
     "text": "Experience"
   },
   {
+    "objectID": "blog/2023-10-23-my-first-post/index.html",
+    "href": "blog/2023-10-23-my-first-post/index.html",
+    "title": "My first blog post",
+    "section": "",
+    "text": "Time to blog!1\ninsert interesting things here!"
+  },
+  {
+    "objectID": "blog/2023-10-23-my-first-post/index.html#this-is-my-first-section",
+    "href": "blog/2023-10-23-my-first-post/index.html#this-is-my-first-section",
+    "title": "My first blog post",
+    "section": "",
+    "text": "Time to blog!1\ninsert interesting things here!"
+  },
+  {
+    "objectID": "blog/2023-10-23-my-first-post/index.html#this-is-my-second-section",
+    "href": "blog/2023-10-23-my-first-post/index.html#this-is-my-second-section",
+    "title": "My first blog post",
+    "section": "This is my second section",
+    "text": "This is my second section\nHello world!2\nI learned everything I know about blogging here (Csik 2022).\nI’m citing another resource here (Gaynor et al. 2022)."
+  },
+  {
+    "objectID": "blog/2023-10-23-my-first-post/index.html#footnotes",
+    "href": "blog/2023-10-23-my-first-post/index.html#footnotes",
+    "title": "My first blog post",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\na footnote!↩︎\nThis is an inline footnote :)↩︎"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "My first blog post\n\n\n\nQuarto\n\n\nMEDS\n\n\nWorkshop\n\n\n\nwelcome to my first blog post!\n\n\n\nAmanda Herbst\n\n\nOct 23, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
