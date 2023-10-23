@@ -1,0 +1,35 @@
+---
+title: "My first blog post"
+description: "welcome to my first blog post!"
+author: 
+  - name: Amanda Herbst
+    url: https://amandaherbst.github.io/
+    orcid: 0000-0002-0478-5947
+    affiliation: MEDS
+    affiliation-url: https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds
+date: 10-23-2023
+categories: [Quarto, MEDS, Workshop]
+bibliography: references.bib
+citation:
+  url: https://amandaherbst.github.io/blog/2023-10-23-my-first-post/
+#image: file/path/to/image
+draft: false
+---
+
+## This is my first section
+
+Time to blog![^1]
+
+[^1]: a footnote!
+
+*insert interesting things here!*
+
+## This is my second section
+
+Hello world![^2]
+
+[^2]: This is an inline footnote :)
+
+I learned everything I know about blogging here [@csik2022].
+
+I'm citing another resource here [@gaynor2022].
