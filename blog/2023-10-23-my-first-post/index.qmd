@@ -13,7 +13,7 @@ bibliography: references.bib
 citation:
   url: https://amandaherbst.github.io/blog/2023-10-23-my-first-post/
 #image: file/path/to/image
-draft: false
+draft: true
 ---
 
 ## This is my first section
