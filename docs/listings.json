@@ -2,6 +2,8 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/blog/python-trial-render/STAC-search.html",
+      "/blog/2023-12-23-eds220-thomas-fire/thomas-fire-analysis-blog.html",
       "/blog/2023-10-23-my-first-post/index.html"
     ]
   }
