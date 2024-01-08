@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Amanda Herbst",
     "section": "",
-    "text": "My name is Amanda Herbst and this is where I will put my bio"
+    "text": "Hi there! I am currently a graduate student in the Bren school’s Master of Environmental Data Science program at the University of California, Santa Barbara."
   },
   {
     "objectID": "index.html#intro",
@@ -18,7 +18,7 @@
     "href": "index.html#education",
     "title": "Amanda Herbst",
     "section": "Education",
-    "text": "Education\nMaster of Environmental Data Science, UCSB (2024)\nBS, Chemistry, minor in Dance, Cal Poly SLO (2022)"
+    "text": "Education\nMaster of Environmental Data Science, UCSB (expected 2024)\nBS, Chemistry, minor in Dance, Cal Poly SLO (2022)"
   },
   {
     "objectID": "index.html#experience",
@@ -60,7 +60,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "In 2022, I graduated from California Polytechnic State University, San Luis Obispo (Cal Poly SLO) with a bachelor’s degree in Chemistry and a minor in Dance. During my undergraduate career, I participated in research at Cal Poly SLO in ocean carbonate chemistry, where I was involved in all steps of creating and maintaining an oceanographic time series. In the summer of 2021, I participated in an NSF-funded Research Experience for Undergraduates (REU) program at the University of Rhode Island Graduate School of Oceanography. As a research intern, I created a reproducible workflow to post-calibrate continuous chlorophyll-a data collected from six seasonal transect cruises conducted off the coast of Rhode Island. My project was part of the Northeast U.S. Shelf Long-Term Ecological Research (NES-LTER) site and introduced me to the fascinating work of collaborating and synthesizing data to understand the environments around us. Read more about my project here! Overall, I’m interested in using data science to collaboratively characterize natural environments and understand the impacts of a changing climate."
   },
   {
     "objectID": "blog.html",
@@ -348,5 +348,19 @@
     "title": "Historic redlining and biodiveristy observations in Los Angeles County",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nGee, G. C. (2008). A multilevel analysis of the relationship between institutional and individual racial discrimination and health status. American journal of public health, 98(Supplement_1), S48-S56.↩︎\nNardone, A., Rudolph, K. E., Morello-Frosch, R., & Casey, J. A. (2021). Redlines and greenspace: the relationship between historical redlining and 2010 greenspace across the United States. Environmental health perspectives, 129(1), 017006.↩︎\nHoffman, J. S., Shandas, V., & Pendleton, N. (2020). The effects of historical housing policies on resident exposure to intra-urban heat: a study of 108 US urban areas. Climate, 8(1), 12.↩︎\nLee E. K., Donley G., Ciesielski T. H., Gill I., Yamoah O., Roche A., Martinez R., Freedman D. A. (2022). Health outcomes in redlined versus non-redlined neighborhoods: A systematic review and meta-analysis. Soc Sci Med, 294, 114696. doi: 10.1016/j.socscimed.2021.114696.↩︎\nRobert K. Nelson, LaDale Winling, Richard Marciano, Nathan Connolly, et al., “Mapping Inequality,” American Panorama, ed. Robert K. Nelson and Edward L. Ayers, accessed October 17, 2023, https://dsl.richmond.edu/panorama/redlining/↩︎\nRobert K. Nelson, LaDale Winling, Richard Marciano, Nathan Connolly, et al., “Mapping Inequality,” American Panorama, ed. Robert K. Nelson and Edward L. Ayers, accessed October 17, 2023, https://dsl.richmond.edu/panorama/redlining/↩︎"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nMaster of Environmental Data Science, UCSB (expected 2024)\nBS, Chemistry, minor in Dance, Cal Poly SLO (2022)"
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "",
+    "text": "In 2022, I graduated from California Polytechnic State University, San Luis Obispo (Cal Poly SLO) with a bachelor’s degree in Chemistry and a minor in Dance. During my undergraduate career, I participated in research at Cal Poly SLO in ocean carbonate chemistry, where I was involved in all steps of creating and maintaining an oceanographic time series. In the summer of 2021, I participated in an NSF-funded Research Experience for Undergraduates (REU) program at the University of Rhode Island Graduate School of Oceanography. As a research intern, I created a reproducible workflow to post-calibrate continuous chlorophyll-a data collected from six seasonal transect cruises conducted off the coast of Rhode Island. My project was part of the Northeast U.S. Shelf Long-Term Ecological Research (NES-LTER) site and introduced me to the fascinating work of collaborating and synthesizing data to understand the environments around us. Read more about my project here! Overall, I’m interested in using data science to collaboratively characterize natural environments and understand the impacts of a changing climate."
   }
 ]

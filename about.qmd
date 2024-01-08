@@ -1,9 +1,12 @@
 ---
 title: "About"
 ---
+## Background
 
-About this site
+In 2022, I graduated from California Polytechnic State University, San Luis Obispo (Cal Poly SLO) with a bachelor’s degree in Chemistry and a minor in Dance. During my undergraduate career, I participated in research at Cal Poly SLO in ocean carbonate chemistry, where I was involved in all steps of creating and maintaining an oceanographic time series. In the summer of 2021, I participated in an NSF-funded Research Experience for Undergraduates (REU) program at the University of Rhode Island Graduate School of Oceanography. As a research intern, I created a reproducible workflow to post-calibrate continuous chlorophyll-a data collected from six seasonal transect cruises conducted off the coast of Rhode Island. My project was part of the Northeast U.S. Shelf Long-Term Ecological Research ([NES-LTER](https://nes-lter.whoi.edu/)) site and introduced me to the fascinating work of collaborating and synthesizing data to understand the environments around us. Read more about my project [here](https://oceanbites.org/tiny-ocean-organisms/)! Overall, I'm interested in using data science to collaboratively characterize natural environments and understand the impacts of a changing climate.
 
-```{r}
-1 + 1
-```
+## Education
+
+Master of Environmental Data Science, UCSB (expected 2024)
+
+BS, Chemistry, minor in Dance, Cal Poly SLO (2022)

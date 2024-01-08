@@ -1,9 +1,9 @@
 ---
 title: "Amanda Herbst"
 toc: false
-image: Herbst Amanda_MEDS 23_Bren_Portraits_0001.jpg
+image: MEDS_headshot.jpg
 about:
-  template: trestles
+  template: jolla
   image-shape: rounded
   image-width: 15em
   links: 
@@ -17,15 +17,4 @@ about:
       href: mailto::aherbst@ucsb.edu
       icon: envelope
 ---
-
-## Intro
-
-My name is Amanda Herbst and this is where I will put my bio
-
-## Education
-
-Master of Environmental Data Science, UCSB (2024)
-
-BS, Chemistry, minor in Dance, Cal Poly SLO (2022)
-
-## Experience
+Hi there! I am currently a graduate student in the Bren school’s Master of Environmental Data Science program at the University of California, Santa Barbara.
