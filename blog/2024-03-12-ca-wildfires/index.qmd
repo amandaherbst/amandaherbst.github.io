@@ -263,7 +263,7 @@ largest_fires <- ggplot(data = ca_largest_fires) +
 largest_fires
 ```
 
-![](largest_fires.png)
+![A histogram of the total acres burned by the largest annual California wildfires from 1980 to 2022 where the Dixie (2021), August (2020), and Ranch (2018) fires are highlighted because they are the top 3 largest recorded fires since 1980. There are a lot more fires that burned more acres than the average largest fire of the past 40 years in the 2000s compared to the last 20 years of the 1900s.](largest_fires.png)
 
 ### How has the total amount of acres burned each month changed over time (1980 - 2022)?
 
@@ -364,7 +364,7 @@ monthly <- calendar %>%
 monthly
 ```
 
-![](sun_plot.png)
+![A circular area plot of the total acres burned each month by California wildfires where each peak is colored by the year, ranging from 1980 to 2022. The largest amount of acres burned in a single month occurred in August of 2020 where 2.9 million acres burned. However, there is no clear pattern amongst the years.](sun_plot.png)
 
 ### How has the average number of fires impacting each California county changed since the 1980s?
 
@@ -447,13 +447,13 @@ map_change <- ggplot() +
 map_change
 ```
 
-![ca_choropleth](ca_diff.png)
+![A choropleth map of California where the counties are colored by the change in average number of fires that impacted them between the 1980s and the 2010s where positive red values indicate an increase in average number of fires and negative blue values indicate a decrease in average number of fires over time.](ca_diff.png)
 
 ### Final Infographic
 
 I joined all the plots together into a final infographic. Outside of R, I added some fire icons as well as a couple annotations with major takeaways from my visuals.
 
-![](final_infographic.png)
+![An infographic investigating whether California wildfires are getting worse with time that indicates wildifires may be getting larger and more frequent since 1980.](final_infographic.png)
 
 ## Design Elements
 
