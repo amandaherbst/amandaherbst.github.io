@@ -10,8 +10,13 @@ website:
         text: Home
       - about.qmd
       - blog.qmd
-      - href: resources.qmd
-        text: Resources
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/amanda-herbst
+      - icon: github
+        href: https://github.com/amandaherbst
+      - icon: envelope
+        href: mailto::aherbst@ucsb.edu
 
 format:
   html:

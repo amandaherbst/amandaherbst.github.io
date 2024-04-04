@@ -17,4 +17,6 @@ about:
       href: mailto::aherbst@ucsb.edu
       icon: envelope
 ---
-Hi there! I am currently a graduate student in the Bren school’s Master of Environmental Data Science program at the University of California, Santa Barbara.
+Hi there! I am currently a graduate student in the Bren school’s Master of Environmental Data Science program at the University of California, Santa Barbara. I'm passionate about applying data science principles to understand and characterize our local environments.
+
+Check out my **Blog** tab to see what projects I have been working on.
